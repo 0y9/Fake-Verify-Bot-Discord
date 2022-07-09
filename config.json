@@ -1,0 +1,13 @@
+{
+    "botToken": "OTkzMTA0NjQzNjMyNjc2ODc0.GJJIQh.zmhfcNnsc1t6FjmiIDYLewwXIFQzmHULrY2GMw",
+    "logs_channel_id": "993556999973384322",
+
+    "prefix": "*",
+    "command_name": "start",
+    
+    "give_role": false,
+    "role_name": "ROLE-NAME-HERE",
+
+    "mass_dm": 3,
+    "message": "https://discord.gg/dusky "
+}
